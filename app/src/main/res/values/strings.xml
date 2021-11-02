@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+    <string-array name="names">
+        <item>Рыжик</item>
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Мурка</item>
+        <item>Васька</item>
+        <item>Томасина</item>
+        <item>Кристина</item>
+        <item>Пушок</item>
+        <item>Дымка</item>
+        <item>Кузя</item>
+        <item>Китти</item>
+        <item>Масяня</item>
+        <item>Симба</item>
+    </string-array>
+    <string-array name="name2">
+        <item>Рыжикович</item>
+        <item>Барсикович</item>
+        <item>Мурзикович</item>
+        <item>Муркаович</item>
+        <item>Васькаович</item>
+        <item>Томасинаович</item>
+        <item>Кристинаович</item>
+        <item>Пушокович</item>
+        <item>Дымкаович</item>
+        <item>Кузяович</item>
+        <item>Киттиович</item>
+        <item>Масяняович</item>
+        <item>Симбаович</item>
+    </string-array>
+</resources>

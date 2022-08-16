@@ -14,12 +14,12 @@ class MainActivity : AppCompatActivity() {
         val recView: RecyclerView = findViewById(R.id.rView)
         recView.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
 
-        recView.adapter = MyAdapter(fillList(),getCatList(),getCatSecondNameList())
+        recView.adapter = MyAdapter(fillList(), getCatList(), getCatSecondNameList())
     }
 
     private fun fillList(): List<String> {
         val data = mutableListOf<String>()
-        (0..12).forEach { i -> data.add("$i element")}
+        (0..12).forEach { i -> data.add("$i element") }
         return data
     }
 
